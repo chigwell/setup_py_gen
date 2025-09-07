@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='setup_py_gen',
-    version='2025.9.81417',
+    version='2025.9.81442',
     description='A package generated from provided source code and metadata.',
     long_description='',
     author='Eugene Evstafev',
